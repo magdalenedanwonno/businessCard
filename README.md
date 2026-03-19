@@ -1,19 +1,29 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+ Digital Business Card - Danwonno Mary-Magdalene
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A clean, professional digital business card built with **HTML5** and **CSS3**. This project showcases a profile for a Frontend Developer based in Kintampo, Ghana.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+ 🚀 Features
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+* **Semantic HTML**: Structured using clean, readable HTML5 elements.
+* **Flexbox Layout**: Utilizes CSS Flexbox to align the avatar and contact details horizontally.
+* **Interactive Styles**: Features custom hover and active states for contact links to improve user experience.
+* **Visual Styling**: Includes a custom color palette with a specific bottom border and text-shadow effects for depth.
 
-Happy Coding!
+ 🛠️ Tech Stack
+
+* **HTML5**: Content and structure.
+* **CSS3**: Layout, colors, and typography.
+* **Images**: High-quality profile photography.
+
+ 🎨 Design Details
+
+* **Background Color**: `#D6C0B3`.
+* **Text Color**: `#E4E0E1` with a dark `text-shadow` for readability.
+* **Border Accent**: A 6px solid border in `#9F8383` at the bottom of the card.
+* **Interactivity**: Links change to `#493628` when hovered or active.
+
+📂 Project Structure
+
+* `index.html`: The main markup for the business card.
+* `styles.css`: The stylesheet containing all layout and design rules.
+* `mary.jpg`: The profile image used for the professional avatar.
